@@ -8,6 +8,8 @@ Commandes GIT fréquemment utilisées :
 
     Branches :
 
+    - git branch
+        = affiche toutes les branches
     - git branch "NOM DE LA BRANCHE"
         = création d'une branche
     - git checkout "NOM DE LA BRANCHE"
