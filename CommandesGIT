@@ -1,0 +1,18 @@
+Commandes GIT fréquemment utilisées :
+
+    - git clone "URL"
+    - git add -A ou git add .
+    - git commit -m "message de commit"
+    - git pull
+    - git push
+
+    Branches :
+
+    - git branch "NOM DE LA BRANCHE"
+        = création d'une branche
+    - git checkout "NOM DE LA BRANCHE"
+        = se déplacer dans la branche
+    - git checkout master
+        = se déplacer dans la branche principale (master)
+    - git merge "NOM DE LA BRANCHE"
+        = ajouter les changements de la branche à la branche prinipale (master)
